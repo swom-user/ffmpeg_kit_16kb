@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/ffmpegkit.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libavcodec.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libavdevice.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libavfilter.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libavformat.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libavutil.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libswresample.framework
+${PODS_ROOT}/../.symlinks/plugins/ffmpeg_kit_16kb/ios/Frameworks/libswscale.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework

@@ -143,7 +143,7 @@ Pod::Spec.new do |s|
                                  'Frameworks/libavutil.framework',
                                  'Frameworks/libswresample.framework',
                                  'Frameworks/libswscale.framework'
-    
+
     ss.ios.frameworks = 'AudioToolbox', 'CoreMedia'
     ss.libraries = 'z', 'bz2', 'c++', 'iconv'
     ss.ios.deployment_target = '14.0'
